@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.2" orientation="orthogonal" renderorder="right-down" width="98" height="20" tilewidth="128" tileheight="128" infinite="0" nextlayerid="9" nextobjectid="1">
+ <tileset firstgid="1" source="my_tiles.tsx"/>
+ <layer id="1" name="platforms" width="98" height="20" offsetx="0" offsety="-0.180106">
+  <data encoding="base64" compression="zlib">
+   eJztl88KwjAMh7M3ET2If0CQefA0RI8+lI9uByuGYNPWNSWr+eCHh82q+ZLOdgDQCceII10n85CGedCBedBBLQ+9y23KRfgzl4jNgw7Mgw5S67R2OblsBNaP7Vk9c60VbB50EKoT1/855zZJD3SOniQYek3b/4bcOuWen20eeM5TfvWQc//SqDkr1MPOZe9yiLyvpgdcDxwN+0gpbB7yoX1Roh84D9xsxDzQ53tLHiSYMw+elDNFifNDy5TwIHF/awzw/Rnn4z08mDWOAK+x33H+va45jA6u8Kk1l3tgjdHB1r2uSOZ6CPVHS/jflOrA70vSwfUOfbeWSK09zhupoiGT
+  </data>
+ </layer>
+ <layer id="8" name="next_level" width="98" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztzgENAAAEADDd6J/JpgS2P8EjAAAAAADgt9oOMHI7AMB5DcghAIg=
+  </data>
+ </layer>
+ <layer id="7" name="coins" width="98" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt2LENwCAMBEAWZP910lO5cWzDnURP/DyKWIuX7GNRQw49yAFq3dq/zO/JmNetOUxyzn5yFpP3HqErEFPZlQ4ddVf00D2Dv//Bus8DKukHr4qefe8GQIYPzUkMVg==
+  </data>
+ </layer>
+ <layer id="5" name="background" width="98" height="20" offsetx="0.77163" offsety="0.267079">
+  <data encoding="base64" compression="zlib">
+   eJzt1LENwCAMBEB2I0LZfyL6iIaC2MBdY8ly8Y2/FAAA4A9t8f1u3ugAHOX0f2FvmfrOr8AdMvXOSu0zgRjPYHdLD2VSowPAhA6+pANM
+  </data>
+ </layer>
+ <layer id="6" name="damage" width="98" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztw0ENAAAIBCDraf9AdvDnDTaqAAAAAAAAgHQT9LMOerGMZB1K
+  </data>
+ </layer>
+</map>
